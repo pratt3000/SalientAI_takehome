@@ -1,0 +1,114 @@
+transcript,conversation_length
+"[{'Customer': ""no ma'am you're not this is gary dinger's number please remove it from your calling list""}, {'Agent': 'My apologies for the misunderstanding. Have a great rest of your day. Goodbye!'}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?""}, {'Customer': 'for what excuse me'}, {'Agent': 'You have a loan with us for a 2015 Ram Promaster City. The monthly payment of $290.94 is overdue. Can you make a payment today?'}]",3
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?""}, {'Customer': ""i get ma'am i was like hold on i i was wondering if we can do like a payment alright payment arrangement because i have half of the money i just need a couple days to get the rest""}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?""}, {'Customer': 'yeah i did i did it through text but that that bring the house for this one and then press two or whatever'}]",2
+"[{'Agent': 'When do you think you could make a payment?'}, {'Customer': ""I'm sorry, there's been a misunderstanding. I don't have a loan or any other commitments with you.""}]",2
+"[{'Agent': 'Could you please specify the date when you can make the payment?'}, {'Customer': ""I won't be able to make any payments. You have the wrong person.""}]",2
+"[{'Agent': 'When can you make the payment?'}, {'Customer': 'I don’t have a loan with Westlake Financial. Please remove this number from your list.'}]",2
+"[{'Agent': 'When do you think you could make a payment?'}, {'Customer': ""You must have the wrong person, I don't have any loans.""}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial on a recorded line. How can I assist you today?""}, {'Customer': 'I received a call from this number, but I am not sure why. Can you help me understand why I am being contacted?'}]",2
+"[{'Agent': 'Hello, this is Westlake Financial. Could you please verify your date of birth for security purposes?'}, {'Customer': ""I believe you have the wrong person, I don't have any financial dealings with you.""}]",2
+"[{'Agent': 'Hi, this is Westlake Financial. How may I assist you today?'}, {'Customer': ""I'd like to update my contact information. I recently moved and I would like to use my new address.""}]",2
+"[{'Agent': ""Hey there, I'm calling from Westlake Financial. Could I speak with Mr. Smith?""}, {'Customer': 'Smith no longer works here. Could you please update your records?'}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial. Could you verify the last four digits of your social security number for me, please?""}, {'Customer': ""I'm not comfortable giving out that information over the phone. ""}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial. Can I help you with any queries you have about your loan?""}, {'Customer': 'Actually, I wanted to check on the status of a loan application I submitted online a few days ago.'}]",2
+"[{'Agent': 'Hi, this is Westlake Financial. How can I assist you?'}, {'Customer': ""I'd like to make a complaint about receiving calls at inconvenient hours.""}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial. What can I do for you?""}, {'Customer': ""I'm calling to report a fraudulent charge I've noticed on my last bill. Can you help me with that?""}]",2
+"[{'Agent': 'Hi, this is Westlake Financial. How may I assist you today?'}, {'Customer': 'Hello, do you have any loan programs for college students?'}]",2
+"[{'Agent': 'Hello, this is Westlake Financial. How can I assist you today?'}, {'Customer': 'Could you please send me a copy of the loan agreement? I seem to have misplaced my copy.'}]",2
+"[{'Agent': '...and aside from that, do you have any other concerns or inquiries?'}, {'Customer': 'Yes, I do. Would it be possible to change my mailing address? I just moved.'}]",2
+"[{'Agent': '...so if you need more time, just let us know. '}, {'Customer': 'Actually, I have a different concern. My last official statement does not reflect the payment I made. Could you look into that?'}]",2
+"[{'Agent': ""...that's why it's important to keep your payments up-to-date. ""}, {'Customer': 'I understand, but my main issue is I’m not getting the statements in the mail. Can you check if my address is correct in your system?'}]",2
+"[{'Agent': ""...I'm here to help with any questions you have about your account. ""}, {'Customer': ""Actually, I'd like to talk about options for lowering my interest rate.""}]",2
+"[{'Agent': ""...If there's anything else you need...""}, {'Customer': 'Yes, there is something else. I would like to know how I can refinance my loan.'}]",2
+"[{'Agent': '...I hope that clears up any confusion.'}, {'Customer': 'I appreciate it. I have another question though. Can I change my due date?'}]",2
+"[{'Agent': '..Would there be anything else you want to discuss?'}, {'Customer': ""Not about payments, but I'd like to know how I can avail of the skip-a-payment option?""}]",2
+"[{'Agent': '...And with that, do you have any other questions?'}, {'Customer': ""I've been getting promotional offers for car insurance. Can you tell me more about it?""}]",2
+"[{'Agent': ""...But ultimately, it's up to you when you want to pay. ""}, {'Customer': ""I'm not ready to make a payment yet. I do, however, want to contest a late charge on my account.""}]",2
+"[{'Agent': '...Is payment the only concern today?'}, {'Customer': ""Actually, no. I noticed an unfamiliar charge in my statement. Can you clarify what it's for?""}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?""}, {'Customer': 'i will have it in tomorrow'}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?""}, {'Customer': 'yeah how much is the payment'}, {'Agent': 'Your monthly payment is $322.55. Are you able to make this payment today?'}, {'Customer': 'yeah i can make a payment sorry my wife normally does this but i yeah i can do a payment right now right now'}]",4
+"[{'Agent': ""I'm - That's great, Travis. Could you please specify the date when you can make the payment?""}, {'Customer': 'october the twenty sixth'}]",2
+"[{'Agent': 'When do you think you could make a payment?'}, {'Customer': ""house are you worrying about us today would i be able to do anything today i'm not even in las vegas right now i'm out in california right now and i i won't be able to make a payment till friday""}]",2
+"[{'Customer': 'not exactly'}, {'Agent': ""That's okay, Raymond. Could you give me a rough estimate? For example, would you be able to make the payment by the end of this week?""}, {'Customer': 'probably by the end of next week'}]",3
+"[{'Agent': 'Could you please specify the date when you can make the payment?'}, {'Customer': 'the nineth'}]",2
+"[{'Agent': 'When do you think you could make a payment?'}, {'Customer': ""Can it wait until the first of the month? That's when I will have the full amount.""}]",2
+"[{'Agent': 'If it would be possible for you to make a payment today?'}, {'Customer': 'I can make it by Monday.'}]",2
+"[{'Agent': 'Can I know your preferred payment date?'}, {'Customer': 'Would it be possible to pay on the 10th of next month?'}]",2
+"[{'Agent': 'If it would be possible for you to make a payment today?'}, {'Customer': ""Wednesday's the earliest I can make a payment.""}]",2
+"[{'Agent': 'Your next payment is due soon. Could you please inform us when we could expect the payment?'}, {'Customer': 'Saturday. My paycheck will come in by then.'}]",2
+"[{'Agent': 'Would you be able to make a payment today?'}, {'Customer': 'By the end of the day, yes.'}]",2
+"[{'Agent': 'Can I expect your payment on the 15th as agreed?'}, {'Customer': ""I'll have it to you by the 17th latest.""}]",2
+"[{'Agent': ""Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Would you be able to make a payment today?""}, {'Customer': ""Can you give me until Friday? I'll have the money by then.""}]",2
+"[{'Agent': 'When do you think you could make a payment?'}, {'Customer': ""Can't today. Tomorrow, I promise.""}]",2
+"[{'Agent': 'Do you have a timeline in mind for making the payment?'}, {'Customer': 'Would Thursday be acceptable? '}]",2
+"[{'Agent': 'Do you think you could make a payment this week?'}, {'Customer': 'Unfortunately, I cannot make a payment this week, but I can settle it next Wednesday.'}]",2
+"[{'Agent': 'Hi, would you be able to make a payment today?'}, {'Customer': 'I don’t have access to my bank account right now but I can do it first thing in the morning.'}]",2
+"[{'Agent': 'Could you please specify the date when you can make the payment?'}, {'Customer': ""Let's set it up for the 23rd.""}]",2
+"[{'Agent': 'Do you think you could make a payment by tomorrow?'}, {'Customer': 'I think I can arrange for the payment by tonight.'}]",2
+"[{'Agent': 'Do you think you could make a payment this week?'}, {'Customer': 'Easily within today or tomorrow. '}]",2
+"[{'Agent': 'Hi, when can we expect the payment from you?'}, {'Customer': 'Surely, by Tuesday next week.'}]",2
+"[{'Agent': 'Do you think you could make the payment by this Friday?'}, {'Customer': 'Sorry, money is a bit tight right now, can we do it next month on the 6th?'}]",2
+"[{'Agent': 'Do you have a timeline of when you can make the payment?'}, {'Customer': 'Checkout is over for today, so I can do this first thing tomorrow. Is that okay?'}]",2
+"[{'Agent': 'Can I know your preferred payment date?'}, {'Customer': 'Will it be all right if I make the payment on my pay day, which is the 15th of every month?'}]",2
+"[{'Agent': 'Could you please specify when you can make the payment?'}, {'Customer': 'Is it okay if I pay by the third week of August? '}]",2
+"[{'Agent': 'Could you please specify a date when you can make the payment?'}, {'Customer': 'I can assure you I will make the payment by this Sunday.'}]",2
+"[{'Agent': 'Do you think you could make a payment by end of this month?'}, {'Customer': 'Certainly, I can do it by 25th.'}]",2
+"[{'Agent': 'Can I know when you will be able to make your next payment?'}, {'Customer': 'I can make a payment on the 1st of February.'}]",2
+"[{'Agent': 'When do you think you could make a payment?'}, {'Customer': 'Tomorrow is the best option for me.'}]",2
+"[{'Agent': 'Do you think you could make a payment today?'}, {'Customer': ""I've received my salary today so yes, I would be able to make a payment today.""}]",2
+"[{'Agent': 'Are you able to make a payment today?'}, {'Customer': 'No, but I can definitely make the payment tomorrow.'}]",2
+"[{'Agent': 'Can you pay us by the 28th of this month?'}, {'Customer': ""Sure, I'll make sure to process the payment by then.""}]",2
+"[{'Agent': 'When would you be able to make a payment?'}, {'Customer': ""I'll be able to make a payment by next Monday.""}]",2
+"[{'Agent': 'Can you make a payment by the 15th of every month?'}, {'Customer': 'Yes, I can do that.'}]",2
+"[{'Agent': 'Can you pay us by the 12th of this month?'}, {'Customer': 'Yes, I can do that.'}]",2
+"[{'Agent': 'Do you think you could make a payment by the end of this month?'}, {'Customer': 'Yes, I believe I can do that.'}]",2
+"[{'Agent': 'Can you make a payment by next Tuesday?'}, {'Customer': 'Yes, I think that should work.'}]",2
+"[{'Agent': 'Can you make a payment by this Saturday?'}, {'Customer': 'Yes, I plan on paying then.'}]",2
+"[{'Agent': 'Can you make a payment by the 10th of this month?'}, {'Customer': 'Yes, I can make a payment by then.'}]",2
+"[{'Agent': 'Can you make a payment by the 2nd of next month?'}, {'Customer': 'Yes, I can make a payment on the 2nd.'}]",2
+"[{'Agent': 'Can you make a payment by next Wednesday?'}, {'Customer': ""Yes, that's when I get my paycheck, so I can make a payment then.""}]",2
+"[{'Agent': 'Can you make a payment by the end of today?'}, {'Customer': ""Yes, I'll be able to do that.""}]",2
+"[{'Agent': 'Can you make a payment by this coming Sunday?'}, {'Customer': ""Yes, I'll be able to do that.""}]",2
+"[{'Agent': 'Can you make a payment by the end of next week?'}, {'Customer': 'Yes, I should be able to make a payment by then.'}]",2
+"[{'Agent': 'Can you make a payment on the 7th of this month?'}, {'Customer': 'Yes, I should be able to do that.'}]",2
+"[{'Agent': 'Can you make a payment by next Thursday?'}, {'Customer': 'Yes, I have marked it in my calendar.'}]",2
+"[{'Agent': 'Can you make a payment by the end of this month?'}, {'Customer': ""Yes, I'll be able to make the payment on the 30th.""}]",2
+"[{'Agent': 'Can you make a payment by next Monday?'}, {'Customer': ""Yes, I've kept that day free for this.""}]",2
+"[{'Agent': 'Can you make a payment by the 1st of next month?'}, {'Customer': 'Yes, I should be able to do that.'}]",2
+"[{'Agent': 'Could you tell me when will you be able to make a payment?'}, {'Customer': 'I can do it on the first of next month.'}]",2
+"[{'Agent': 'May I know when you will be able to make a payment?'}, {'Customer': 'I plan on paying on the 17th.'}]",2
+"[{'Agent': 'When are you planning to make the payment?'}, {'Customer': 'I can do it by the end of this week.'}]",2
+"[{'Agent': 'Can you inform us about your preferred date of payment?'}, {'Customer': 'I can send the funds by next Tuesday. '}]",2
+"[{'Agent': 'When will you be making the payment?'}, {'Customer': 'I was planning to pay by the 20th.'}]",2
+"[{'Agent': 'Could you advise when you would like to make the payment?'}, {'Customer': 'I can do it by Friday. '}]",2
+"[{'Agent': 'When are you expecting to make the payment?'}, {'Customer': 'I can set it up for the 25th. Is that fine?'}]",2
+"[{'Agent': 'Can you transfer the payment by tomorrow?'}, {'Customer': 'I get paid next week. Can I make the payment then?'}]",2
+"[{'Agent': 'Is it possible to make a payment next Monday?'}, {'Customer': 'Yes, I could make a payment then. '}]",2
+"[{'Agent': 'Are you able to make a payment at the end of the month?'}, {'Customer': 'I could make a payment at the beginning of next month.'}]",2
+"[{'Agent': 'Could you let us know your preferred payment date?'}, {'Customer': 'I receive my salary on the 5th, so I will pay on the 6th.  '}]",2
+"[{'Agent': 'When can you transfer the fund?'}, {'Customer': 'I can do it next Friday.'}]",2
+"[{'Agent': 'Can you set up a payment for today?'}, {'Customer': 'I can only make a payment by end of next week.'}]",2
+"[{'Agent': 'Could you let me know when you can make the payment?'}, {'Customer': 'You can expect the payment by 20th this month. '}]",2
+"[{'Agent': 'Can you make a payment by next Friday?'}, {'Customer': 'I would like to pay on the 12th instead.'}]",2
+"[{'Agent': 'Could I ask when we can expect your payment?'}, {'Customer': 'I will make my payment by the end of the month.  '}]",2
+"[{'Agent': 'Are you able to process the payment by tomorrow?'}, {'Customer': 'It would be better for me to pay next Tuesday. Is that okay?'}]",2
+"[{'Agent': 'Can you make a payment on the 15th of this month?'}, {'Customer': 'Can we move it to the 20th instead?'}]",2
+"[{'Agent': 'Will you be able to make a payment today?'}, {'Customer': 'Unfortunately, I can only pay on the 15th of next month.'}]",2
+"[{'Agent': 'Can I know when we can expect your payment?'}, {'Customer': ""I'm planning to make it by the 10th.""}]",2
+"[{'Agent': 'Will you be able to process the payment by the end of this week?'}, {'Customer': ""I'll make the payment on Monday as that's when I get my salary.""}]",2
+"[{'Agent': 'Can you share when can we expect your next payment?'}, {'Customer': 'Once I receive my pay this Friday, I will make a payment. '}]",2
+"[{'Agent': 'When do you expect to make the payment?'}, {'Customer': 'I am planning to make the payment on April 1st.'}]",2
+"[{'Agent': 'Could you let me know when will you be able to make the payment?'}, {'Customer': 'I can do it next Monday.'}]",2
+"[{'Agent': 'When will you be able to process the payment?'}, {'Customer': 'I will send it this Saturday.'}]",2
+"[{'Agent': ""Hi, could you inform us when you're able to make the payment? ""}, {'Customer': 'Sure, I can do it by the 10th of next month. '}]",2
+"[{'Agent': 'Are you able to make the payment by this weekend?'}, {'Customer': 'Unfortunately, I can only make the payment by Tuesday.'}]",2
+"[{'Agent': 'When would you be able to transfer the payment?'}, {'Customer': 'I should be able to send it by the end of this week. '}]",2
+"[{'Agent': ""Could you inform when you'll be able to make a payment? ""}, {'Customer': ""Yes, I'm planning to do it on Tuesday.""}]",2
+"[{'Agent': 'Can you specify a date for the payment? '}, {'Customer': 'I am planning to make the payment on the 20th of this month. '}]",2
+"[{'Agent': 'When would you be able to make a payment? '}, {'Customer': 'I am planning to make a payment by next Friday. '}]",2
+"[{'Agent': 'Is it possible for you to make the payment by tomorrow? '}, {'Customer': 'I can only make a payment by the first Wednesday of next month.'}]",2
+"[{'Agent': 'When do you plan to make the payment? '}, {'Customer': 'I will make the payment by the 10th of October.'}]",2
+"[{'Agent': ""Can you advise when you'll manage to make the payment? ""}, {'Customer': 'I should be able to do it on Thursday next week.'}]",2
+"[{'Agent': 'When should we expect the payment?'}, {'Customer': 'I can make the payment by the end of the month.'}]",2

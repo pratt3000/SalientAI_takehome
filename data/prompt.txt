@@ -1,0 +1,7 @@
+Agent: Can you make a payment on the 15th of this month?\n 
+Customer: Can we move it to the 20th instead?
+
+Today's date: 01/01/2023, Tuesday
+Given the above transcript and today's day and date, give me the date when the customer
+is expected to make their payment in the format "dd/mm/yyyy". Return 'NA' if its not possible to do that.
+Just output the date in your response and nothing else.

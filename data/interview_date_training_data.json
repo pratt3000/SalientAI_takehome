@@ -1,0 +1,341 @@
+[
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nCustomer: no ma'am you're not this is gary dinger's number please remove it from your calling list\nAgent: My apologies for the misunderstanding. Have a great rest of your day. Goodbye!\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: for what excuse me\nAgent: You have a loan with us for a 2015 Ram Promaster City. The monthly payment of $290.94 is overdue. Can you make a payment today?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: i get ma'am i was like hold on i i was wondering if we can do like a payment alright payment arrangement because i have half of the money i just need a couple days to get the rest\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: yeah i did i did it through text but that that bring the house for this one and then press two or whatever\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you think you could make a payment?\nCustomer: I'm sorry, there's been a misunderstanding. I don't have a loan or any other commitments with you.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you please specify the date when you can make the payment?\nCustomer: I won't be able to make any payments. You have the wrong person.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When can you make the payment?\nCustomer: I don’t have a loan with Westlake Financial. Please remove this number from your list.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you think you could make a payment?\nCustomer: You must have the wrong person, I don't have any loans.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. How can I assist you today?\nCustomer: I received a call from this number, but I am not sure why. Can you help me understand why I am being contacted?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hello, this is Westlake Financial. Could you please verify your date of birth for security purposes?\nCustomer: I believe you have the wrong person, I don't have any financial dealings with you.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, this is Westlake Financial. How may I assist you today?\nCustomer: I'd like to update my contact information. I recently moved and I would like to use my new address.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hey there, I'm calling from Westlake Financial. Could I speak with Mr. Smith?\nCustomer: Smith no longer works here. Could you please update your records?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial. Could you verify the last four digits of your social security number for me, please?\nCustomer: I'm not comfortable giving out that information over the phone. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial. Can I help you with any queries you have about your loan?\nCustomer: Actually, I wanted to check on the status of a loan application I submitted online a few days ago.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, this is Westlake Financial. How can I assist you?\nCustomer: I'd like to make a complaint about receiving calls at inconvenient hours.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial. What can I do for you?\nCustomer: I'm calling to report a fraudulent charge I've noticed on my last bill. Can you help me with that?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, this is Westlake Financial. How may I assist you today?\nCustomer: Hello, do you have any loan programs for college students?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hello, this is Westlake Financial. How can I assist you today?\nCustomer: Could you please send me a copy of the loan agreement? I seem to have misplaced my copy.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...and aside from that, do you have any other concerns or inquiries?\nCustomer: Yes, I do. Would it be possible to change my mailing address? I just moved.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...so if you need more time, just let us know. \nCustomer: Actually, I have a different concern. My last official statement does not reflect the payment I made. Could you look into that?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...that's why it's important to keep your payments up-to-date. \nCustomer: I understand, but my main issue is I’m not getting the statements in the mail. Can you check if my address is correct in your system?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...I'm here to help with any questions you have about your account. \nCustomer: Actually, I'd like to talk about options for lowering my interest rate.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...If there's anything else you need...\nCustomer: Yes, there is something else. I would like to know how I can refinance my loan.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...I hope that clears up any confusion.\nCustomer: I appreciate it. I have another question though. Can I change my due date?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ..Would there be anything else you want to discuss?\nCustomer: Not about payments, but I'd like to know how I can avail of the skip-a-payment option?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...And with that, do you have any other questions?\nCustomer: I've been getting promotional offers for car insurance. Can you tell me more about it?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...But ultimately, it's up to you when you want to pay. \nCustomer: I'm not ready to make a payment yet. I do, however, want to contest a late charge on my account.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: ...Is payment the only concern today?\nCustomer: Actually, no. I noticed an unfamiliar charge in my statement. Can you clarify what it's for?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: i will have it in tomorrow\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: yeah how much is the payment\nAgent: Your monthly payment is $322.55. Are you able to make this payment today?\nCustomer: yeah i can make a payment sorry my wife normally does this but i yeah i can do a payment right now right now\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: I'm - That's great, Travis. Could you please specify the date when you can make the payment?\nCustomer: october the twenty sixth\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you think you could make a payment?\nCustomer: house are you worrying about us today would i be able to do anything today i'm not even in las vegas right now i'm out in california right now and i i won't be able to make a payment till friday\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nCustomer: not exactly\nAgent: That's okay, Raymond. Could you give me a rough estimate? For example, would you be able to make the payment by the end of this week?\nCustomer: probably by the end of next week\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you please specify the date when you can make the payment?\nCustomer: the nineth\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you think you could make a payment?\nCustomer: Can it wait until the first of the month? That's when I will have the full amount.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: If it would be possible for you to make a payment today?\nCustomer: I can make it by Monday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can I know your preferred payment date?\nCustomer: Would it be possible to pay on the 10th of next month?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: If it would be possible for you to make a payment today?\nCustomer: Wednesday's the earliest I can make a payment.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Your next payment is due soon. Could you please inform us when we could expect the payment?\nCustomer: Saturday. My paycheck will come in by then.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Would you be able to make a payment today?\nCustomer: By the end of the day, yes.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can I expect your payment on the 15th as agreed?\nCustomer: I'll have it to you by the 17th latest.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Would you be able to make a payment today?\nCustomer: Can you give me until Friday? I'll have the money by then.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you think you could make a payment?\nCustomer: Can't today. Tomorrow, I promise.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you have a timeline in mind for making the payment?\nCustomer: Would Thursday be acceptable? \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you think you could make a payment this week?\nCustomer: Unfortunately, I cannot make a payment this week, but I can settle it next Wednesday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, would you be able to make a payment today?\nCustomer: I don’t have access to my bank account right now but I can do it first thing in the morning.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you please specify the date when you can make the payment?\nCustomer: Let's set it up for the 23rd.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you think you could make a payment by tomorrow?\nCustomer: I think I can arrange for the payment by tonight.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you think you could make a payment this week?\nCustomer: Easily within today or tomorrow. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, when can we expect the payment from you?\nCustomer: Surely, by Tuesday next week.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you think you could make the payment by this Friday?\nCustomer: Sorry, money is a bit tight right now, can we do it next month on the 6th?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you have a timeline of when you can make the payment?\nCustomer: Checkout is over for today, so I can do this first thing tomorrow. Is that okay?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can I know your preferred payment date?\nCustomer: Will it be all right if I make the payment on my pay day, which is the 15th of every month?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you please specify when you can make the payment?\nCustomer: Is it okay if I pay by the third week of August? \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you please specify a date when you can make the payment?\nCustomer: I can assure you I will make the payment by this Sunday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you think you could make a payment by end of this month?\nCustomer: Certainly, I can do it by 25th.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can I know when you will be able to make your next payment?\nCustomer: I can make a payment on the 1st of February.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you think you could make a payment?\nCustomer: Tomorrow is the best option for me.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you think you could make a payment today?\nCustomer: I've received my salary today so yes, I would be able to make a payment today.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Are you able to make a payment today?\nCustomer: No, but I can definitely make the payment tomorrow.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you pay us by the 28th of this month?\nCustomer: Sure, I'll make sure to process the payment by then.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When would you be able to make a payment?\nCustomer: I'll be able to make a payment by next Monday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by the 15th of every month?\nCustomer: Yes, I can do that.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you pay us by the 12th of this month?\nCustomer: Yes, I can do that.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Do you think you could make a payment by the end of this month?\nCustomer: Yes, I believe I can do that.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by next Tuesday?\nCustomer: Yes, I think that should work.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by this Saturday?\nCustomer: Yes, I plan on paying then.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by the 10th of this month?\nCustomer: Yes, I can make a payment by then.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by the 2nd of next month?\nCustomer: Yes, I can make a payment on the 2nd.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by next Wednesday?\nCustomer: Yes, that's when I get my paycheck, so I can make a payment then.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by the end of today?\nCustomer: Yes, I'll be able to do that.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by this coming Sunday?\nCustomer: Yes, I'll be able to do that.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by the end of next week?\nCustomer: Yes, I should be able to make a payment by then.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment on the 7th of this month?\nCustomer: Yes, I should be able to do that.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by next Thursday?\nCustomer: Yes, I have marked it in my calendar.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by the end of this month?\nCustomer: Yes, I'll be able to make the payment on the 30th.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by next Monday?\nCustomer: Yes, I've kept that day free for this.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by the 1st of next month?\nCustomer: Yes, I should be able to do that.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you tell me when will you be able to make a payment?\nCustomer: I can do it on the first of next month.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: May I know when you will be able to make a payment?\nCustomer: I plan on paying on the 17th.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When are you planning to make the payment?\nCustomer: I can do it by the end of this week.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you inform us about your preferred date of payment?\nCustomer: I can send the funds by next Tuesday. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When will you be making the payment?\nCustomer: I was planning to pay by the 20th.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you advise when you would like to make the payment?\nCustomer: I can do it by Friday. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When are you expecting to make the payment?\nCustomer: I can set it up for the 25th. Is that fine?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you transfer the payment by tomorrow?\nCustomer: I get paid next week. Can I make the payment then?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Is it possible to make a payment next Monday?\nCustomer: Yes, I could make a payment then. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Are you able to make a payment at the end of the month?\nCustomer: I could make a payment at the beginning of next month.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you let us know your preferred payment date?\nCustomer: I receive my salary on the 5th, so I will pay on the 6th.  \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When can you transfer the fund?\nCustomer: I can do it next Friday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you set up a payment for today?\nCustomer: I can only make a payment by end of next week.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you let me know when you can make the payment?\nCustomer: You can expect the payment by 20th this month. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment by next Friday?\nCustomer: I would like to pay on the 12th instead.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could I ask when we can expect your payment?\nCustomer: I will make my payment by the end of the month.  \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Are you able to process the payment by tomorrow?\nCustomer: It would be better for me to pay next Tuesday. Is that okay?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you make a payment on the 15th of this month?\nCustomer: Can we move it to the 20th instead?\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Will you be able to make a payment today?\nCustomer: Unfortunately, I can only pay on the 15th of next month.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can I know when we can expect your payment?\nCustomer: I'm planning to make it by the 10th.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Will you be able to process the payment by the end of this week?\nCustomer: I'll make the payment on Monday as that's when I get my salary.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you share when can we expect your next payment?\nCustomer: Once I receive my pay this Friday, I will make a payment. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you expect to make the payment?\nCustomer: I am planning to make the payment on April 1st.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you let me know when will you be able to make the payment?\nCustomer: I can do it next Monday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When will you be able to process the payment?\nCustomer: I will send it this Saturday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Hi, could you inform us when you're able to make the payment? \nCustomer: Sure, I can do it by the 10th of next month. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Are you able to make the payment by this weekend?\nCustomer: Unfortunately, I can only make the payment by Tuesday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When would you be able to transfer the payment?\nCustomer: I should be able to send it by the end of this week. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Could you inform when you'll be able to make a payment? \nCustomer: Yes, I'm planning to do it on Tuesday.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you specify a date for the payment? \nCustomer: I am planning to make the payment on the 20th of this month. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When would you be able to make a payment? \nCustomer: I am planning to make a payment by next Friday. \n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Is it possible for you to make the payment by tomorrow? \nCustomer: I can only make a payment by the first Wednesday of next month.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When do you plan to make the payment? \nCustomer: I will make the payment by the 10th of October.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: Can you advise when you'll manage to make the payment? \nCustomer: I should be able to do it on Thursday next week.\n###"
+  },
+  {
+    "sample_input": "From the TRANSCRIPT below, when would the customer like to pay? If you cannot infer a date, output N/A.\n###\nTRANSCRIPT\nAgent: When should we expect the payment?\nCustomer: I can make the payment by the end of the month.\n###"
+  }
+]
