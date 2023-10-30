@@ -4,6 +4,7 @@ warnings.filterwarnings("ignore")
 import en_core_web_lg
 
 from transformers import pipeline
+from constants import model_path
 
 
 def check_entities_in_conversation(transcript):
@@ -18,10 +19,6 @@ def check_entities_in_conversation(transcript):
         return False
     return True
 
-
-model_id = "google/flan-t5-base"
-model_name_on_hub = "Salient_ai" + model_id.split("/")[1]
-model_path = "pratt3000/" + model_name_on_hub
 
 model_entity_rec = en_core_web_lg.load()
 model_nlp = pipeline(model = model_path)
