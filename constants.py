@@ -9,6 +9,15 @@ start_date = datetime(2020, 1, 1)
 end_date = datetime(2023, 12, 31)
 
 # Model params
-model_id = "google/flan-t5-base"
-model_name_on_hub = "Salient_ai" + model_id.split("/")[1]
+label_type_list = ['label', 'days_diff']
+label_type = label_type_list[1]
+model_id = "google/flan-t5-large"
+model_name_on_hub = "Salient_ai" + model_id.split("/")[1] + "_" + label_type
 model_path = "pratt3000/" + model_name_on_hub
+
+# Data labels
+base_prompts_list = {
+    "label": "Given the above transcript and today's day and date, give me the date when the customer is expected to make their payment in the format 'dd/mm/yyyy'. Return 'NA' if its not possible to infer this information from the conversation. just return the date or NA and nothing else.", 
+    "days_diff": "Given the above transcript and today's day and date, give me the number of days after which the customer will be able to pay. Return 0 if its not possible to infer this information from the conversation.Just return the number of days or 0 if not inferrable and nothing else."
+}
+agent_starter_dialogue = "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\n"
