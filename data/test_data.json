@@ -1,0 +1,793 @@
+[
+  {
+    "id": 0,
+    "conversation_date": "2020-04-16, Thursday",
+    "conversation": "Customer: no ma'am you're not this is gary dinger's number please remove it from your calling list\nAgent: My apologies for the misunderstanding. Have a great rest of your day. Goodbye!",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 1,
+    "conversation_date": "2021-11-15, Monday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: for what excuse me\nAgent: You have a loan with us for a 2015 Ram Promaster City. The monthly payment of $290.94 is overdue. Can you make a payment today?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 2,
+    "conversation_date": "2023-07-20, Thursday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: i get ma'am i was like hold on i i was wondering if we can do like a payment alright payment arrangement because i have half of the money i just need a couple days to get the rest",
+    "label": "2023-07-23",
+    "days_diff": 3
+  },
+  {
+    "id": 3,
+    "conversation_date": "2022-10-09, Sunday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: yeah i did i did it through text but that that bring the house for this one and then press two or whatever",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 4,
+    "conversation_date": "2022-08-23, Tuesday",
+    "conversation": "Agent: When do you think you could make a payment?\nCustomer: I'm sorry, there's been a misunderstanding. I don't have a loan or any other commitments with you.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 5,
+    "conversation_date": "2020-08-05, Wednesday",
+    "conversation": "Agent: Could you please specify the date when you can make the payment?\nCustomer: I won't be able to make any payments. You have the wrong person.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 6,
+    "conversation_date": "2021-04-02, Friday",
+    "conversation": "Agent: When can you make the payment?\nCustomer: I don\u2019t have a loan with Westlake Financial. Please remove this number from your list.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 7,
+    "conversation_date": "2022-08-28, Sunday",
+    "conversation": "Agent: When do you think you could make a payment?\nCustomer: You must have the wrong person, I don't have any loans.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 8,
+    "conversation_date": "2023-08-03, Thursday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. How can I assist you today?\nCustomer: I received a call from this number, but I am not sure why. Can you help me understand why I am being contacted?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 9,
+    "conversation_date": "2022-03-14, Monday",
+    "conversation": "Agent: Hello, this is Westlake Financial. Could you please verify your date of birth for security purposes?\nCustomer: I believe you have the wrong person, I don't have any financial dealings with you.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 10,
+    "conversation_date": "2021-06-21, Monday",
+    "conversation": "Agent: Hi, this is Westlake Financial. How may I assist you today?\nCustomer: I'd like to update my contact information. I recently moved and I would like to use my new address.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 11,
+    "conversation_date": "2022-12-12, Monday",
+    "conversation": "Agent: Hey there, I'm calling from Westlake Financial. Could I speak with Mr. Smith?\nCustomer: Smith no longer works here. Could you please update your records?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 12,
+    "conversation_date": "2020-08-28, Friday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial. Could you verify the last four digits of your social security number for me, please?\nCustomer: I'm not comfortable giving out that information over the phone. ",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 13,
+    "conversation_date": "2023-07-18, Tuesday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial. Can I help you with any queries you have about your loan?\nCustomer: Actually, I wanted to check on the status of a loan application I submitted online a few days ago.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 14,
+    "conversation_date": "2020-09-29, Tuesday",
+    "conversation": "Agent: Hi, this is Westlake Financial. How can I assist you?\nCustomer: I'd like to make a complaint about receiving calls at inconvenient hours.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 15,
+    "conversation_date": "2023-12-14, Thursday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial. What can I do for you?\nCustomer: I'm calling to report a fraudulent charge I've noticed on my last bill. Can you help me with that?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 16,
+    "conversation_date": "2023-03-08, Wednesday",
+    "conversation": "Agent: Hi, this is Westlake Financial. How may I assist you today?\nCustomer: Hello, do you have any loan programs for college students?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 17,
+    "conversation_date": "2021-08-09, Monday",
+    "conversation": "Agent: Hello, this is Westlake Financial. How can I assist you today?\nCustomer: Could you please send me a copy of the loan agreement? I seem to have misplaced my copy.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 18,
+    "conversation_date": "2023-06-09, Friday",
+    "conversation": "Agent: ...and aside from that, do you have any other concerns or inquiries?\nCustomer: Yes, I do. Would it be possible to change my mailing address? I just moved.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 19,
+    "conversation_date": "2021-06-08, Tuesday",
+    "conversation": "Agent: ...so if you need more time, just let us know. \nCustomer: Actually, I have a different concern. My last official statement does not reflect the payment I made. Could you look into that?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 20,
+    "conversation_date": "2021-03-06, Saturday",
+    "conversation": "Agent: ...that's why it's important to keep your payments up-to-date. \nCustomer: I understand, but my main issue is I\u2019m not getting the statements in the mail. Can you check if my address is correct in your system?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 21,
+    "conversation_date": "2023-04-13, Thursday",
+    "conversation": "Agent: ...I'm here to help with any questions you have about your account. \nCustomer: Actually, I'd like to talk about options for lowering my interest rate.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 22,
+    "conversation_date": "2021-03-18, Thursday",
+    "conversation": "Agent: ...If there's anything else you need...\nCustomer: Yes, there is something else. I would like to know how I can refinance my loan.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 23,
+    "conversation_date": "2020-04-19, Sunday",
+    "conversation": "Agent: ...I hope that clears up any confusion.\nCustomer: I appreciate it. I have another question though. Can I change my due date?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 24,
+    "conversation_date": "2023-10-01, Sunday",
+    "conversation": "Agent: ..Would there be anything else you want to discuss?\nCustomer: Not about payments, but I'd like to know how I can avail of the skip-a-payment option?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 25,
+    "conversation_date": "2023-01-17, Tuesday",
+    "conversation": "Agent: ...And with that, do you have any other questions?\nCustomer: I've been getting promotional offers for car insurance. Can you tell me more about it?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 26,
+    "conversation_date": "2020-01-20, Monday",
+    "conversation": "Agent: ...But ultimately, it's up to you when you want to pay. \nCustomer: I'm not ready to make a payment yet. I do, however, want to contest a late charge on my account.",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 27,
+    "conversation_date": "2020-05-26, Tuesday",
+    "conversation": "Agent: ...Is payment the only concern today?\nCustomer: Actually, no. I noticed an unfamiliar charge in my statement. Can you clarify what it's for?",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 28,
+    "conversation_date": "2022-02-15, Tuesday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: i will have it in tomorrow",
+    "label": "2022-02-16",
+    "days_diff": 1
+  },
+  {
+    "id": 29,
+    "conversation_date": "2023-03-23, Thursday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Unfortunately, we did not receive your monthly payment! Would you be able to make a payment today?\nCustomer: yeah how much is the payment\nAgent: Your monthly payment is $322.55. Are you able to make this payment today?\nCustomer: yeah i can make a payment sorry my wife normally does this but i yeah i can do a payment right now right now",
+    "label": "2023-03-23",
+    "days_diff": 0
+  },
+  {
+    "id": 30,
+    "conversation_date": "2023-06-21, Wednesday",
+    "conversation": "Agent: I'm - That's great, Travis. Could you please specify the date when you can make the payment?\nCustomer: october the twenty sixth",
+    "label": "2023-10-26",
+    "days_diff": 127
+  },
+  {
+    "id": 31,
+    "conversation_date": "2020-05-02, Saturday",
+    "conversation": "Agent: When do you think you could make a payment?\nCustomer: house are you worrying about us today would i be able to do anything today i'm not even in las vegas right now i'm out in california right now and i i won't be able to make a payment till friday",
+    "label": "2020-05-08",
+    "days_diff": 6
+  },
+  {
+    "id": 32,
+    "conversation_date": "2022-05-19, Thursday",
+    "conversation": "Customer: not exactly\nAgent: That's okay, Raymond. Could you give me a rough estimate? For example, would you be able to make the payment by the end of this week?\nCustomer: probably by the end of next week",
+    "label": "2022-05-27",
+    "days_diff": 8
+  },
+  {
+    "id": 33,
+    "conversation_date": "2020-12-20, Sunday",
+    "conversation": "Agent: Could you please specify the date when you can make the payment?\nCustomer: the nineth",
+    "label": "NA",
+    "days_diff": 0
+  },
+  {
+    "id": 34,
+    "conversation_date": "2021-08-12, Thursday",
+    "conversation": "Agent: When do you think you could make a payment?\nCustomer: Can it wait until the first of the month? That's when I will have the full amount.",
+    "label": "2021-09-01",
+    "days_diff": 20
+  },
+  {
+    "id": 35,
+    "conversation_date": "2023-10-14, Saturday",
+    "conversation": "Agent: If it would be possible for you to make a payment today?\nCustomer: I can make it by Monday.",
+    "label": "2023-10-16",
+    "days_diff": 2
+  },
+  {
+    "id": 36,
+    "conversation_date": "2020-02-12, Wednesday",
+    "conversation": "Agent: Can I know your preferred payment date?\nCustomer: Would it be possible to pay on the 10th of next month?",
+    "label": "2020-03-10",
+    "days_diff": 27
+  },
+  {
+    "id": 37,
+    "conversation_date": "2022-01-02, Sunday",
+    "conversation": "Agent: If it would be possible for you to make a payment today?\nCustomer: Wednesday's the earliest I can make a payment.",
+    "label": "2022-01-05",
+    "days_diff": 3
+  },
+  {
+    "id": 38,
+    "conversation_date": "2020-09-08, Tuesday",
+    "conversation": "Agent: Your next payment is due soon. Could you please inform us when we could expect the payment?\nCustomer: Saturday. My paycheck will come in by then.",
+    "label": "2020-09-12",
+    "days_diff": 4
+  },
+  {
+    "id": 39,
+    "conversation_date": "2021-02-03, Wednesday",
+    "conversation": "Agent: Would you be able to make a payment today?\nCustomer: By the end of the day, yes.",
+    "label": "2021-02-03",
+    "days_diff": 0
+  },
+  {
+    "id": 40,
+    "conversation_date": "2022-12-31, Saturday",
+    "conversation": "Agent: Can I expect your payment on the 15th as agreed?\nCustomer: I'll have it to you by the 17th latest.",
+    "label": "2023-01-17",
+    "days_diff": 17
+  },
+  {
+    "id": 41,
+    "conversation_date": "2023-07-08, Saturday",
+    "conversation": "Agent: Hi, I'm Taylor, calling from Westlake Financial on a recorded line. Would you be able to make a payment today?\nCustomer: Can you give me until Friday? I'll have the money by then.",
+    "label": "2023-07-14",
+    "days_diff": 6
+  },
+  {
+    "id": 42,
+    "conversation_date": "2022-01-16, Sunday",
+    "conversation": "Agent: When do you think you could make a payment?\nCustomer: Can't today. Tomorrow, I promise.",
+    "label": "2022-01-17",
+    "days_diff": 1
+  },
+  {
+    "id": 43,
+    "conversation_date": "2023-07-05, Wednesday",
+    "conversation": "Agent: Do you have a timeline in mind for making the payment?\nCustomer: Would Thursday be acceptable? ",
+    "label": "2023-07-06",
+    "days_diff": 1
+  },
+  {
+    "id": 44,
+    "conversation_date": "2021-12-20, Monday",
+    "conversation": "Agent: Do you think you could make a payment this week?\nCustomer: Unfortunately, I cannot make a payment this week, but I can settle it next Wednesday.",
+    "label": "2021-12-29",
+    "days_diff": 9
+  },
+  {
+    "id": 45,
+    "conversation_date": "2020-01-26, Sunday",
+    "conversation": "Agent: Hi, would you be able to make a payment today?\nCustomer: I don\u2019t have access to my bank account right now but I can do it first thing in the morning.",
+    "label": "2020-01-27",
+    "days_diff": 1
+  },
+  {
+    "id": 46,
+    "conversation_date": "2023-02-14, Tuesday",
+    "conversation": "Agent: Could you please specify the date when you can make the payment?\nCustomer: Let's set it up for the 23rd.",
+    "label": "2023-02-23",
+    "days_diff": 9
+  },
+  {
+    "id": 47,
+    "conversation_date": "2023-05-23, Tuesday",
+    "conversation": "Agent: Do you think you could make a payment by tomorrow?\nCustomer: I think I can arrange for the payment by tonight.",
+    "label": "2023-05-23",
+    "days_diff": 0
+  },
+  {
+    "id": 48,
+    "conversation_date": "2020-10-07, Wednesday",
+    "conversation": "Agent: Do you think you could make a payment this week?\nCustomer: Easily within today or tomorrow. ",
+    "label": "2020-10-08",
+    "days_diff": 1
+  },
+  {
+    "id": 49,
+    "conversation_date": "2020-09-18, Friday",
+    "conversation": "Agent: Hi, when can we expect the payment from you?\nCustomer: Surely, by Tuesday next week.",
+    "label": "2020-09-22",
+    "days_diff": 4
+  },
+  {
+    "id": 50,
+    "conversation_date": "2023-03-08, Wednesday",
+    "conversation": "Agent: Do you think you could make the payment by this Friday?\nCustomer: Sorry, money is a bit tight right now, can we do it next month on the 6th?",
+    "label": "2023-04-06",
+    "days_diff": 29
+  },
+  {
+    "id": 51,
+    "conversation_date": "2023-05-28, Sunday",
+    "conversation": "Agent: Do you have a timeline of when you can make the payment?\nCustomer: Checkout is over for today, so I can do this first thing tomorrow. Is that okay?",
+    "label": "2023-05-29",
+    "days_diff": 1
+  },
+  {
+    "id": 52,
+    "conversation_date": "2023-09-13, Wednesday",
+    "conversation": "Agent: Can I know your preferred payment date?\nCustomer: Will it be all right if I make the payment on my pay day, which is the 15th of every month?",
+    "label": "2023-09-15",
+    "days_diff": 2
+  },
+  {
+    "id": 53,
+    "conversation_date": "2020-07-14, Tuesday",
+    "conversation": "Agent: Could you please specify when you can make the payment?\nCustomer: Is it okay if I pay by the third week of August? ",
+    "label": "2020-08-21",
+    "days_diff": 38
+  },
+  {
+    "id": 54,
+    "conversation_date": "2022-06-15, Wednesday",
+    "conversation": "Agent: Could you please specify a date when you can make the payment?\nCustomer: I can assure you I will make the payment by this Sunday.",
+    "label": "2022-06-19",
+    "days_diff": 4
+  },
+  {
+    "id": 55,
+    "conversation_date": "2020-04-06, Monday",
+    "conversation": "Agent: Do you think you could make a payment by end of this month?\nCustomer: Certainly, I can do it by 25th.",
+    "label": "2020-04-25",
+    "days_diff": 19
+  },
+  {
+    "id": 56,
+    "conversation_date": "2023-01-25, Wednesday",
+    "conversation": "Agent: Can I know when you will be able to make your next payment?\nCustomer: I can make a payment on the 1st of February.",
+    "label": "2023-02-01",
+    "days_diff": 7
+  },
+  {
+    "id": 57,
+    "conversation_date": "2020-05-03, Sunday",
+    "conversation": "Agent: When do you think you could make a payment?\nCustomer: Tomorrow is the best option for me.",
+    "label": "2020-05-04",
+    "days_diff": 1
+  },
+  {
+    "id": 58,
+    "conversation_date": "2021-06-22, Tuesday",
+    "conversation": "Agent: Do you think you could make a payment today?\nCustomer: I've received my salary today so yes, I would be able to make a payment today.",
+    "label": "2021-06-22",
+    "days_diff": 0
+  },
+  {
+    "id": 59,
+    "conversation_date": "2020-09-30, Wednesday",
+    "conversation": "Agent: Are you able to make a payment today?\nCustomer: No, but I can definitely make the payment tomorrow.",
+    "label": "2020-10-01",
+    "days_diff": 1
+  },
+  {
+    "id": 60,
+    "conversation_date": "2023-08-18, Friday",
+    "conversation": "Agent: Can you pay us by the 28th of this month?\nCustomer: Sure, I'll make sure to process the payment by then.",
+    "label": "2023-08-28",
+    "days_diff": 10
+  },
+  {
+    "id": 61,
+    "conversation_date": "2022-07-12, Tuesday",
+    "conversation": "Agent: When would you be able to make a payment?\nCustomer: I'll be able to make a payment by next Monday.",
+    "label": "2022-07-18",
+    "days_diff": 6
+  },
+  {
+    "id": 62,
+    "conversation_date": "2023-06-24, Saturday",
+    "conversation": "Agent: Can you make a payment by the 15th of every month?\nCustomer: Yes, I can do that.",
+    "label": "2023-07-15",
+    "days_diff": 21
+  },
+  {
+    "id": 63,
+    "conversation_date": "2022-10-10, Monday",
+    "conversation": "Agent: Can you pay us by the 12th of this month?\nCustomer: Yes, I can do that.",
+    "label": "2022-10-12",
+    "days_diff": 2
+  },
+  {
+    "id": 64,
+    "conversation_date": "2020-06-21, Sunday",
+    "conversation": "Agent: Do you think you could make a payment by the end of this month?\nCustomer: Yes, I believe I can do that.",
+    "label": "2020-06-30",
+    "days_diff": 9
+  },
+  {
+    "id": 65,
+    "conversation_date": "2023-01-02, Monday",
+    "conversation": "Agent: Can you make a payment by next Tuesday?\nCustomer: Yes, I think that should work.",
+    "label": "2023-01-10",
+    "days_diff": 8
+  },
+  {
+    "id": 66,
+    "conversation_date": "2021-07-28, Wednesday",
+    "conversation": "Agent: Can you make a payment by this Saturday?\nCustomer: Yes, I plan on paying then.",
+    "label": "2021-07-31",
+    "days_diff": 3
+  },
+  {
+    "id": 67,
+    "conversation_date": "2022-10-06, Thursday",
+    "conversation": "Agent: Can you make a payment by the 10th of this month?\nCustomer: Yes, I can make a payment by then.",
+    "label": "2022-10-10",
+    "days_diff": 4
+  },
+  {
+    "id": 68,
+    "conversation_date": "2020-05-08, Friday",
+    "conversation": "Agent: Can you make a payment by the 2nd of next month?\nCustomer: Yes, I can make a payment on the 2nd.",
+    "label": "2020-06-02",
+    "days_diff": 25
+  },
+  {
+    "id": 69,
+    "conversation_date": "2020-04-15, Wednesday",
+    "conversation": "Agent: Can you make a payment by next Wednesday?\nCustomer: Yes, that's when I get my paycheck, so I can make a payment then.",
+    "label": "2020-04-22",
+    "days_diff": 7
+  },
+  {
+    "id": 70,
+    "conversation_date": "2023-06-01, Thursday",
+    "conversation": "Agent: Can you make a payment by the end of today?\nCustomer: Yes, I'll be able to do that.",
+    "label": "2023-06-01",
+    "days_diff": 0
+  },
+  {
+    "id": 71,
+    "conversation_date": "2020-01-01, Wednesday",
+    "conversation": "Agent: Can you make a payment by this coming Sunday?\nCustomer: Yes, I'll be able to do that.",
+    "label": "2020-01-05",
+    "days_diff": 4
+  },
+  {
+    "id": 72,
+    "conversation_date": "2020-06-07, Sunday",
+    "conversation": "Agent: Can you make a payment by the end of next week?\nCustomer: Yes, I should be able to make a payment by then.",
+    "label": "2020-06-13",
+    "days_diff": 6
+  },
+  {
+    "id": 73,
+    "conversation_date": "2023-08-06, Sunday",
+    "conversation": "Agent: Can you make a payment on the 7th of this month?\nCustomer: Yes, I should be able to do that.",
+    "label": "2023-08-07",
+    "days_diff": 1
+  },
+  {
+    "id": 74,
+    "conversation_date": "2023-02-20, Monday",
+    "conversation": "Agent: Can you make a payment by next Thursday?\nCustomer: Yes, I have marked it in my calendar.",
+    "label": "2023-03-02",
+    "days_diff": 10
+  },
+  {
+    "id": 75,
+    "conversation_date": "2020-03-01, Sunday",
+    "conversation": "Agent: Can you make a payment by the end of this month?\nCustomer: Yes, I'll be able to make the payment on the 30th.",
+    "label": "2020-03-30",
+    "days_diff": 29
+  },
+  {
+    "id": 76,
+    "conversation_date": "2020-05-25, Monday",
+    "conversation": "Agent: Can you make a payment by next Monday?\nCustomer: Yes, I've kept that day free for this.",
+    "label": "2020-06-01",
+    "days_diff": 7
+  },
+  {
+    "id": 77,
+    "conversation_date": "2022-08-01, Monday",
+    "conversation": "Agent: Can you make a payment by the 1st of next month?\nCustomer: Yes, I should be able to do that.",
+    "label": "2022-09-01",
+    "days_diff": 31
+  },
+  {
+    "id": 78,
+    "conversation_date": "2023-06-07, Wednesday",
+    "conversation": "Agent: Could you tell me when will you be able to make a payment?\nCustomer: I can do it on the first of next month.",
+    "label": "2023-07-01",
+    "days_diff": 24
+  },
+  {
+    "id": 79,
+    "conversation_date": "2022-04-10, Sunday",
+    "conversation": "Agent: May I know when you will be able to make a payment?\nCustomer: I plan on paying on the 17th.",
+    "label": "2022-04-17",
+    "days_diff": 7
+  },
+  {
+    "id": 80,
+    "conversation_date": "2023-09-07, Thursday",
+    "conversation": "Agent: When are you planning to make the payment?\nCustomer: I can do it by the end of this week.",
+    "label": "2023-09-09",
+    "days_diff": 2
+  },
+  {
+    "id": 81,
+    "conversation_date": "2021-03-24, Wednesday",
+    "conversation": "Agent: Can you inform us about your preferred date of payment?\nCustomer: I can send the funds by next Tuesday. ",
+    "label": "2021-03-30",
+    "days_diff": 6
+  },
+  {
+    "id": 82,
+    "conversation_date": "2020-03-12, Thursday",
+    "conversation": "Agent: When will you be making the payment?\nCustomer: I was planning to pay by the 20th.",
+    "label": "2020-03-20",
+    "days_diff": 8
+  },
+  {
+    "id": 83,
+    "conversation_date": "2023-04-05, Wednesday",
+    "conversation": "Agent: Could you advise when you would like to make the payment?\nCustomer: I can do it by Friday. ",
+    "label": "2023-04-07",
+    "days_diff": 2
+  },
+  {
+    "id": 84,
+    "conversation_date": "2021-06-18, Friday",
+    "conversation": "Agent: When are you expecting to make the payment?\nCustomer: I can set it up for the 25th. Is that fine?",
+    "label": "2021-06-25",
+    "days_diff": 7
+  },
+  {
+    "id": 85,
+    "conversation_date": "2020-01-28, Tuesday",
+    "conversation": "Agent: Can you transfer the payment by tomorrow?\nCustomer: I get paid next week. Can I make the payment then?",
+    "label": "2020-02-03",
+    "days_diff": 6
+  },
+  {
+    "id": 86,
+    "conversation_date": "2023-03-06, Monday",
+    "conversation": "Agent: Is it possible to make a payment next Monday?\nCustomer: Yes, I could make a payment then. ",
+    "label": "2023-03-13",
+    "days_diff": 7
+  },
+  {
+    "id": 87,
+    "conversation_date": "2020-09-09, Wednesday",
+    "conversation": "Agent: Are you able to make a payment at the end of the month?\nCustomer: I could make a payment at the beginning of next month.",
+    "label": "2020-10-01",
+    "days_diff": 22
+  },
+  {
+    "id": 88,
+    "conversation_date": "2022-03-25, Friday",
+    "conversation": "Agent: Could you let us know your preferred payment date?\nCustomer: I receive my salary on the 5th, so I will pay on the 6th.  ",
+    "label": "2022-04-06",
+    "days_diff": 12
+  },
+  {
+    "id": 89,
+    "conversation_date": "2020-03-11, Wednesday",
+    "conversation": "Agent: When can you transfer the fund?\nCustomer: I can do it next Friday.",
+    "label": "2020-03-20",
+    "days_diff": 9
+  },
+  {
+    "id": 90,
+    "conversation_date": "2021-04-10, Saturday",
+    "conversation": "Agent: Can you set up a payment for today?\nCustomer: I can only make a payment by end of next week.",
+    "label": "2021-04-16",
+    "days_diff": 6
+  },
+  {
+    "id": 91,
+    "conversation_date": "2022-11-09, Wednesday",
+    "conversation": "Agent: Could you let me know when you can make the payment?\nCustomer: You can expect the payment by 20th this month. ",
+    "label": "2022-11-20",
+    "days_diff": 11
+  },
+  {
+    "id": 92,
+    "conversation_date": "2020-11-05, Thursday",
+    "conversation": "Agent: Can you make a payment by next Friday?\nCustomer: I would like to pay on the 12th instead.",
+    "label": "2020-11-05",
+    "days_diff": 0
+  },
+  {
+    "id": 93,
+    "conversation_date": "2022-02-13, Sunday",
+    "conversation": "Agent: Could I ask when we can expect your payment?\nCustomer: I will make my payment by the end of the month.  ",
+    "label": "2022-02-28",
+    "days_diff": 15
+  },
+  {
+    "id": 94,
+    "conversation_date": "2020-07-21, Tuesday",
+    "conversation": "Agent: Are you able to process the payment by tomorrow?\nCustomer: It would be better for me to pay next Tuesday. Is that okay?",
+    "label": "2020-07-21",
+    "days_diff": 0
+  },
+  {
+    "id": 95,
+    "conversation_date": "2021-08-07, Saturday",
+    "conversation": "Agent: Can you make a payment on the 15th of this month?\nCustomer: Can we move it to the 20th instead?",
+    "label": "2021-08-20",
+    "days_diff": 13
+  },
+  {
+    "id": 96,
+    "conversation_date": "2023-01-08, Sunday",
+    "conversation": "Agent: Will you be able to make a payment today?\nCustomer: Unfortunately, I can only pay on the 15th of next month.",
+    "label": "2023-02-15",
+    "days_diff": 38
+  },
+  {
+    "id": 97,
+    "conversation_date": "2023-06-24, Saturday",
+    "conversation": "Agent: Can I know when we can expect your payment?\nCustomer: I'm planning to make it by the 10th.",
+    "label": "2023-07-10",
+    "days_diff": 16
+  },
+  {
+    "id": 98,
+    "conversation_date": "2020-09-18, Friday",
+    "conversation": "Agent: Will you be able to process the payment by the end of this week?\nCustomer: I'll make the payment on Monday as that's when I get my salary.",
+    "label": "2020-09-21",
+    "days_diff": 3
+  },
+  {
+    "id": 99,
+    "conversation_date": "2022-09-04, Sunday",
+    "conversation": "Agent: Can you share when can we expect your next payment?\nCustomer: Once I receive my pay this Friday, I will make a payment. ",
+    "label": "2022-09-09",
+    "days_diff": 5
+  },
+  {
+    "id": 100,
+    "conversation_date": "2021-10-27, Wednesday",
+    "conversation": "Agent: When do you expect to make the payment?\nCustomer: I am planning to make the payment on April 1st.",
+    "label": "2021-11-01",
+    "days_diff": 5
+  },
+  {
+    "id": 101,
+    "conversation_date": "2021-02-18, Thursday",
+    "conversation": "Agent: Could you let me know when will you be able to make the payment?\nCustomer: I can do it next Monday.",
+    "label": "2021-03-01",
+    "days_diff": 11
+  },
+  {
+    "id": 102,
+    "conversation_date": "2020-04-19, Sunday",
+    "conversation": "Agent: When will you be able to process the payment?\nCustomer: I will send it this Saturday.",
+    "label": "2020-04-25",
+    "days_diff": 6
+  },
+  {
+    "id": 103,
+    "conversation_date": "2021-04-09, Friday",
+    "conversation": "Agent: Hi, could you inform us when you're able to make the payment? \nCustomer: Sure, I can do it by the 10th of next month. ",
+    "label": "2021-05-10",
+    "days_diff": 31
+  },
+  {
+    "id": 104,
+    "conversation_date": "2020-11-25, Wednesday",
+    "conversation": "Agent: Are you able to make the payment by this weekend?\nCustomer: Unfortunately, I can only make the payment by Tuesday.",
+    "label": "2020-12-01",
+    "days_diff": 6
+  },
+  {
+    "id": 105,
+    "conversation_date": "2022-06-26, Sunday",
+    "conversation": "Agent: When would you be able to transfer the payment?\nCustomer: I should be able to send it by the end of this week. ",
+    "label": "2022-07-02",
+    "days_diff": 6
+  },
+  {
+    "id": 106,
+    "conversation_date": "2020-02-15, Saturday",
+    "conversation": "Agent: Could you inform when you'll be able to make a payment? \nCustomer: Yes, I'm planning to do it on Tuesday.",
+    "label": "2020-02-18",
+    "days_diff": 3
+  },
+  {
+    "id": 107,
+    "conversation_date": "2022-11-16, Wednesday",
+    "conversation": "Agent: Can you specify a date for the payment? \nCustomer: I am planning to make the payment on the 20th of this month. ",
+    "label": "2022-11-20",
+    "days_diff": 4
+  },
+  {
+    "id": 108,
+    "conversation_date": "2022-11-10, Thursday",
+    "conversation": "Agent: When would you be able to make a payment? \nCustomer: I am planning to make a payment by next Friday. ",
+    "label": "2022-11-18",
+    "days_diff": 8
+  },
+  {
+    "id": 109,
+    "conversation_date": "2023-01-06, Friday",
+    "conversation": "Agent: Is it possible for you to make the payment by tomorrow? \nCustomer: I can only make a payment by the first Wednesday of next month.",
+    "label": "2023-02-04",
+    "days_diff": 29
+  },
+  {
+    "id": 110,
+    "conversation_date": "2022-09-03, Saturday",
+    "conversation": "Agent: When do you plan to make the payment? \nCustomer: I will make the payment by the 10th of October.",
+    "label": "2022-10-10",
+    "days_diff": 37
+  },
+  {
+    "id": 111,
+    "conversation_date": "2020-05-14, Thursday",
+    "conversation": "Agent: Can you advise when you'll manage to make the payment? \nCustomer: I should be able to do it on Thursday next week.",
+    "label": "2020-05-21",
+    "days_diff": 7
+  },
+  {
+    "id": 112,
+    "conversation_date": "2020-01-20, Monday",
+    "conversation": "Agent: When should we expect the payment?\nCustomer: I can make the payment by the end of the month.",
+    "label": "2020-02-28",
+    "days_diff": 39
+  }
+]

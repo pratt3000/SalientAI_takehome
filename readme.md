@@ -32,3 +32,7 @@ flan-t5-small (77M) - this can work just thoda training lagega. Its giving out d
 base - same as small but changing prompt sometimes give right answers.
 Lets work with Flan!
 
+# Approach
+1. Autolabelling - I am checking for entities in the conversation. If the data doesnt contain 'ORDINAL' or 'DATE' entities then there is no mention of any time/date/etc in the conversation and we can safely return NA. This has a 0 false positives when evaluated on the test set provided, so its a good way to quickly process outputs. I will use this in the main algorithm as well (given its so accurate.) If the conversation does have 'ORDINAL' or 'DATE' entities we can then pass it through the model. This trick is useful as I was instantly able to process 20/113 responses as NA.
+
+## can explore predicting days instead of dates.

@@ -1,0 +1,32 @@
+DATE PREDICTION PROMPT
+
+Agent: Can you make a payment on the 15th of this month?\n 
+Customer: Can we move it to the 20th instead?
+
+Today's date: 01/01/2023, Tuesday
+Given the above transcript and today's day and date, give me the date when the customer
+is expected to make their payment in the format "dd/mm/yyyy". Return 'NA' if its not possible to do that.
+Just output the date in your response and nothing else.
+
+
+NUMBER OF DAYS PREDICTION PROMPT
+
+Agent: Can you make a payment on the 15th of this month?\n 
+Customer: Can we move it to the 20th instead?
+Today's date: 01/01/2023, Tuesday
+Given the above transcript and today's day and date, tell me after how many days will customer be able to pay?
+Return 'NA' if its not possible to infer that. Just output the number of days or 'NA' in your response and nothing else.
+
+CHATGPT DATA CREATION PROMPT
+
+This is a sample json for conversations and information related to them. 
+id is just a random number conversation_date is the date the conversation occured along with the day. This too can be any random value.
+conversation: is a transcript of conversation between an agent and a user over the phone. 
+The agent basically wants to know by when the user wll be able to make their payment. 
+The answer can be in different forms you need to calculate the date when the user will be making their
+payment using the conversation and the conversation_date. The user may not say the date explicitely like 'June 10th' 
+the user may just say end of month and not a specific date. You need to calculate it on your own. 
+
+This calculated values is to be written in the label variable. If no date has been promosed by the user or it cannot be 
+inferred from the conversation put in NA in the conversation_date parameter. 
+Give me a similar text in the same json format for 20 conversations. 
