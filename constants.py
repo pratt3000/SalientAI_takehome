@@ -8,13 +8,6 @@ formatted_test_data_path = "data/data.json"
 start_date = datetime(2020, 1, 1)
 end_date = datetime(2023, 12, 31)
 
-# Model params
-label_type_list = ['label', 'days_diff']
-label_type = label_type_list[1]
-model_id = "google/flan-t5-large"
-model_name_on_hub = "Salient_ai" + model_id.split("/")[1] + "_" + label_type
-model_path = "pratt3000/" + model_name_on_hub
-
 # Data labels
 base_prompts_list = {
     "label": "Given the above transcript and today's day and date, give me the date when the customer is expected to make their payment in the format 'dd/mm/yyyy'. Return 'NA' if its not possible to infer this information from the conversation. just return the date or NA and nothing else.", 

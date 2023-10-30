@@ -5,7 +5,7 @@ warnings.filterwarnings("ignore")
 import en_core_web_lg
 
 from transformers import pipeline
-from constants import model_path, label_type, base_prompts_list, agent_starter_dialogue
+from constants import base_prompts_list, agent_starter_dialogue
 
 from datetime import datetime
 
@@ -50,8 +50,20 @@ def get_predictions(model, model_entity_rec, conversation, date, label_type):
     return res
 
 
+def get_model_params(label_type):
+    # Model params
+    model_id = "google/flan-t5-large"
+    model_name_on_hub = "Salient_ai" + model_id.split("/")[1] + "_" + label_type
+    model_path = "pratt3000/" + model_name_on_hub
+
+    return model_path
+
+
 with open("data/test_data.json", 'r') as f:
     data = json.load(f)
+
+label_type = "label"
+model_path = get_model_params(label_type)
 
 print(f"Loading model from {model_path}")
 print("label_type = ", label_type)
