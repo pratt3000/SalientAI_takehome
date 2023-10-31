@@ -60,6 +60,8 @@ def predict(conversation, date, label_type):
     print(f"Loading model from {model_path}")
     model_entity_rec = en_core_web_lg.load()
     model_nlp = pipeline(model = model_path)
+    from torchsummary import summary
+    print(summary(model_nlp.model))
 
     print("Running Prediction Engine")
     start = time.time()
