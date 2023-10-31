@@ -26,3 +26,6 @@ Note: This will evaluate the model on data from ```test_data.json```
 
 # Approach Explanation: <br>
 The details are in ```approach_explanation.pdf```
+
+# Compute used
+Kaggle - GPU: P100 (16 GB)
