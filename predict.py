@@ -60,8 +60,6 @@ def predict(conversation, date, label_type):
     print(f"Loading model from {model_path}")
     model_entity_rec = en_core_web_lg.load()
     model_nlp = pipeline(model = model_path)
-    from torchsummary import summary
-    print(summary(model_nlp.model))
 
     print("Running Prediction Engine")
     start = time.time()
@@ -79,7 +77,7 @@ if __name__ == "__main__":
     parser.add_argument('--conversation', type=str, default="Agent: Can you advise when you'll manage to make the payment? \nCustomer: I should be able to do it on Thursday next week.")
     parser.add_argument('--date', type=str, default="2022-01-01, Saturday")
     parser.add_argument('--label_type', type=str, default="days_diff")
-    parser.add_argument('--ensemble', type=bool, default=False)
+    parser.add_argument('--ensemble', action='store_true')
     args = parser.parse_args()
 
 
